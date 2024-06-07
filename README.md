@@ -7,17 +7,27 @@ A Swift framework using WebView to convert websites to web apps. This software i
 <br />
 <br />
 
-## 2. Rename the window title in "ViewController.swift" to your desired app name
+## 2. Rename the app name in the "Project navigator" to your desired app name
+<img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/rename.png">
+<br />
+<br />
+
+## 3. Click rename
+<img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/rename2.png">
+<br />
+<br />
+
+## 4. Rename the window title in "ViewController.swift" to your desired app name
 <img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/name.png">
 <br />
 <br />
 
-## 3. Build the app in Xcode by clicking build
+## 5. Build the app in Xcode by clicking build
 <img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/build.png">
 <br />
 <br />
 
-## 4. Your app should be located under this directory in Finder:
+## 6. Your app should be located under this directory in Finder:
 <br />
 ~/Library/Developer/Xcode/DerivedData/{your app}/Build/Products/Debug/{Project Name}.app
 <br />
