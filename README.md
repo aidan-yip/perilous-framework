@@ -23,3 +23,7 @@ A Swift framework using WebView to convert websites to web apps. This software i
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/finder.png">
+<br />
+<br />
+
+(If your having issues try quiting the app. Xcode autoruns it on build. Then you can copy/paste it to a better location in Finder.)
