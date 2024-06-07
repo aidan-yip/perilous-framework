@@ -1,5 +1,5 @@
 # Perilous Framework
-A Swift framework using WebView to convert websites to web apps. This software is open source and free for use. Please credit me in your work if you find this framework useful. Thank you and enjoy!
+A Swift framework using WebView to convert websites to WebView apps. This software is open source and free for use. Please credit me in your work if you find this framework useful. Thank you and enjoy!
 
 # How to use:
 ## 1. Enter your website url into "ViewController.swift"
