@@ -2,12 +2,12 @@
 A Swift framework using WebView to convert websites to web apps. This software is open source and free for use. Please credit me in your work if you find this framework useful. Thank you and enjoy!
 
 # How to use:
-## 1. Enter your website url into ViewController.swift
+## 1. Enter your website url into "ViewController.swift"
 <img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/url.png">
 <br />
 <br />
 
-## 2. Rename the window title in ViewController.swift
+## 2. Rename the window title in "ViewController.swift" to your desired app name
 <img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/name.png">
 <br />
 <br />
