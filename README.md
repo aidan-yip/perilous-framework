@@ -13,7 +13,7 @@ A Swift framework using WebView to convert websites to web apps. This software i
 <br />
 
 ## 3. Click rename
-<img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/rename2.png">
+<img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/rename_pop.png">
 <br />
 <br />
 
