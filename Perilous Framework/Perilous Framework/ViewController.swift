@@ -28,7 +28,7 @@ class ViewController: NSViewController, WKUIDelegate, WKScriptMessageHandler
     override func viewDidLoad() {
         super.viewDidLoad()
         super.viewDidLoad()
-            // Enter a web url below to connect it to the framework
+              // Enter a web url below to connect it to the framework
                 let url = URL(string: "https://apple.com")!
                 webView.load(URLRequest(url: url))
                 webView.allowsBackForwardNavigationGestures = true
