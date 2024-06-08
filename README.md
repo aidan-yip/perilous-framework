@@ -1,5 +1,5 @@
 # Perilous Framework
-A Swift framework using WKWebView to convert websites to native WebView apps. This software is open source and free for use. Please credit me in your work if you find this framework useful. Thank you and enjoy!
+A Swift framework using WKWebView to convert websites to native WebView apps. I created this framework to help those new to swift create WebView apps easier as I couldn't find a well  documented tutorial online. This software is open source and free for use. Please credit me in your work if you decide to clone/fork this project. Thank you and enjoy!
 
 # How to use:
 ## 1. Enter your website url into "ViewController.swift"
