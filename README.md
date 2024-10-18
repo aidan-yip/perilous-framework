@@ -1,13 +1,6 @@
 # Perilous Framework
 An open source Swift framework using WKWebView to convert websites to native WebView apps. I created this framework to help those new to swift create WebView apps easier as I couldn't find a well  documented tutorial online. This software is open source and free for use. Please credit me in your work if you decide to clone/fork this project. Thank you and enjoy!
 
-# Credits
-Apple Developer WKWebView: https://developer.apple.com/documentation/webkit/wkwebview
-
-Stackoverflow: https://stackoverflow.com/questions/60082417/how-do-i-create-a-wkwebview-app-for-macos
-
-Google for Developers: https://developers.google.com/admob/ios/browser/webview
-
 # How to use:
 ## 1. Enter your website url into "ViewController.swift"
 <img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/url.png">
@@ -45,3 +38,10 @@ Google for Developers: https://developers.google.com/admob/ios/browser/webview
 <img src="https://raw.githubusercontent.com/aidan-yip/Perilous-Framework/main/finder.png">
 <br />
 <br />
+
+# Credits
+Apple Developer WKWebView: https://developer.apple.com/documentation/webkit/wkwebview
+
+Stackoverflow: https://stackoverflow.com/questions/60082417/how-do-i-create-a-wkwebview-app-for-macos
+
+Google for Developers: https://developers.google.com/admob/ios/browser/webview
